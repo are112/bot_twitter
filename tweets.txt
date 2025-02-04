@@ -1,0 +1,3 @@
+¡Hola, mundo! Este es mi primer tweet automático.
+Aquí va otro tweet. ¡La automatización es genial!
+Último tweet del día. ¡Gracias por seguirme!
