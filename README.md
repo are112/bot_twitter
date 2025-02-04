@@ -4,7 +4,7 @@ Este es un bot de Twitter desarrollado en Python que publica automáticamente tw
 
 ## Características
 - Publica tweets desde un archivo `tweets.txt`.
-- Usa la API de Twitter a través de la librería Tweepy.
+- Usa la API de Twitter API v2 (ahora llamada X API) a través de la librería Tweepy.
 - Maneja errores en la publicación de tweets.
 - Se ejecuta en un bucle infinito, reiniciando el ciclo al llegar al final de la lista de tweets.
 
